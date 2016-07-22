@@ -1,0 +1,7 @@
+{
+  "name": "AdafruitMQTT",
+  "author": "Adafruit <info@adafruit.com>",
+  "license": "MIT",
+  "version": "0.5.5",
+  "description": "This library implements a MQTT protocol."
+}
